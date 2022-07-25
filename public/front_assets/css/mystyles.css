@@ -1,0 +1,7 @@
+/*.product__item__pic:hover{
+	cursor: pointer;
+}*/
+
+.db_body a:hover{color:#000;}
+.db_body a:link{color:#000;}
+.db_body a:active{color:#000;}
